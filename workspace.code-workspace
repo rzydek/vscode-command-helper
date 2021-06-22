@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		  "command-helper.commands": [
+      {
+        "script": "dir",
+        "description": "Displays current directory structure in windows.",
+        "configurable": false
+      },
+      {
+        "script": "echo",
+        "description": "Displays given text in console.",
+        "configurable": true
+      }
+    ]
+	}
+}
